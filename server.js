@@ -1,7 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const mysql = require('mysql');
-const ejsLint = require('ejs-lint');
 var session = require('express-session');
 
 
